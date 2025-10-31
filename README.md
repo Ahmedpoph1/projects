@@ -1,4 +1,4 @@
-# Main Title
+# vulnerability reports 
 ### 1. linkedin vulnerability logic bug 
 - A business-logic flaw in LinkedIn’s Premium subscription lets accounts keep Premium access despite failed or canceled payment attempts, causing potential financial loss.
 The report was closed as a duplicate of #3021565.
