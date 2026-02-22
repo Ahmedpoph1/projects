@@ -15,7 +15,7 @@ It includes screenshots of the request/response and the exact injection string u
 ---
 ### 4. RCE in w3schools
 - A critical Remote Code Execution (RCE) vulnerability was identified that allows unrestricted execution of Python code via web input, enabling attackers to run OS commands, access the filesystem, and obtain sensitive system information on the Linux server.
--[report link](https://perpetual-glue-afd.notion.site/RCE-on-w3scool-30f9f26cb5168096a847cfb4ad683392?source=copy_link)
+-[report link]([https://perpetual-glue-afd.notion.site/RCE-on-w3scool-30f9f26cb5168096a847cfb4ad683392?source=copy_link](https://github.com/Ahmedpoph1/projects/blob/main/c0e9eff8-a8fb-4003-b1d2-6e15898923fb_RCE_on_w3scool.pdf))
 
  ### 5. Project Title
 - lorem ipusm project description
