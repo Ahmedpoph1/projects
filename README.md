@@ -13,7 +13,7 @@ The report was closed as a duplicate of #3021565.
 It includes screenshots of the request/response and the exact injection string used to exploit the flaw.
 - https://medium.com/@apop69166/command-injection-ctf-hack-the-box-fa8fc3452066
 ---
-- ### 4. RCE in w3schools
+### 4. RCE in w3schools
 - A critical Remote Code Execution (RCE) vulnerability was identified that allows unrestricted execution of Python code via web input, enabling attackers to run OS commands, access the filesystem, and obtain sensitive system information on the Linux server.
 -[report link](https://perpetual-glue-afd.notion.site/RCE-on-w3scool-30f9f26cb5168096a847cfb4ad683392?source=copy_link)
 
