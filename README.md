@@ -14,8 +14,8 @@ It includes screenshots of the request/response and the exact injection string u
 - https://medium.com/@apop69166/command-injection-ctf-hack-the-box-fa8fc3452066
 ---
 - ### 4. Project Title
-- lorem ipusm project description
--
+- A critical Remote Code Execution (RCE) vulnerability was identified that allows unrestricted execution of Python code via web input, enabling attackers to run OS commands, access the filesystem, and obtain sensitive system information on the Linux server.
+-[report link](https://perpetual-glue-afd.notion.site/RCE-on-w3scool-30f9f26cb5168096a847cfb4ad683392?source=copy_link)
 
  ### 5. Project Title
 - lorem ipusm project description
