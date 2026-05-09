@@ -21,8 +21,9 @@ It includes screenshots of the request/response and the exact injection string u
 - bypass time limit to claude code ai 
 - [report link](https://github.com/Ahmedpoph1/projects/blob/main/bypass%20time%20limit%20to%20claude%20code%20ai)
 
- ### 6. Project Title
-- lorem ipusm project description
+ ### 6. bypass js & ngnix filter
+- HackTheBox — Magical Palindrome
+- [report link](https://medium.com/@apop69166/hackthebox-magical-palindrome-0b5bcabd2287)
 - 
 
  ### 7. Project Title
