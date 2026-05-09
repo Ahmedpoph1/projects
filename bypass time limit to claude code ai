@@ -1,0 +1,23 @@
+bypass time limit to claude code ai 
+
+1. Description
+The application relies on the client-side system clock to enforce rate limits or usage quotas for the AI services. By manually adjusting the local device time (forward or backward), an attacker can reset the countdown timers or bypass the daily/hourly limits, leading to unauthorized resource consumption and financial loss for the provider.
+
+2. Impact
+Financial Loss: Unauthorized use of AI credits beyond the intended limit.
+
+Resource Exhaustion: Potential for automated scripts to overwhelm the API by bypassing restrictions.
+
+3. Steps to Reproduce (PoC)
+Open the AI application and consume the daily/hourly limit until the "Limit Reached" message appears.
+
+Navigate to the operating system settings and manually change the system date/time (e.g., move it forward by 24 hours).
+
+Refresh the application or trigger the AI request again.
+
+Observe that the limit is bypassed and the service is available again.
+
+4. Recommended Mitigation
+Server-Side Validation: Never trust the client's timestamp for sensitive logic like rate limiting. Use server-side UTC time or database-driven counters to track user usage.
+
+Token-Based Limits: Implement server-side tokens or buckets (e.g., Leaky Bucket algorithm) to manage request flows.
