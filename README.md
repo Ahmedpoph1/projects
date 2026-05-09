@@ -18,5 +18,13 @@ It includes screenshots of the request/response and the exact injection string u
 - [report link](https://github.com/Ahmedpoph1/projects/blob/main/c0e9eff8-a8fb-4003-b1d2-6e15898923fb_RCE_on_w3scool.pdf)
 
  ### 5. Project Title
+- bypass time lilmt to claude code ai 
+- [report link](https://github.com/Ahmedpoph1/projects/blob/main/bypass%20time%20limit%20to%20claude%20code%20ai)
+
+ ### 6. Project Title
+- lorem ipusm project description
+- 
+
+ ### 7. Project Title
 - lorem ipusm project description
 - 
